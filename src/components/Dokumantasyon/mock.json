@@ -1,0 +1,17 @@
+[
+    {
+      "image": "/images/1.png",
+      "title": "Avatar: The Way of Water",
+      "text":"Stok Takip Mobil",
+      "href":"/mobilStokTakip",
+      "interval": 1500
+    },
+    {
+      "image": "/images/web.png",
+      "title": "Black Adam",
+      "text":"Stok Takip Web Sitesi",
+      "href":"/stokTakip/login",
+      "interval": 500
+    }
+  
+  ]

@@ -1,0 +1,26 @@
+[
+    
+    {
+      "image": "/images/ref2.png",
+      "title": "Black Adam",
+      "text":"Stok Takip Web Sitesi",
+      "href":"https://baglicaasm.com/",
+      "interval": 500
+    },
+    {
+        "image": "/images/siteksa.png",
+        "title": "Avatar: The Way of Water",
+        "text":"Stok Takip Mobil",
+        "href":"https://www.siteksa.com/",
+        "interval": 1500
+      },
+      
+      {
+        "image": "/images/ref3.png",
+        "title": "Avatar: The Way of Water",
+        "text":"Stok Takip Mobil",
+        "href":"https://www.atmacaburc.com/",
+        "interval": 1500
+      }
+  
+  ]

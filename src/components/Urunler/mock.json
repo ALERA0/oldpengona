@@ -1,0 +1,23 @@
+[
+    {
+      "image": "/images/1.png",
+      "title": "Avatar: The Way of Water",
+      "text":"Stok Takip Mobil",
+      "href":"https://play.google.com/store/apps/details?id=com.pengona.stoktakip",
+      "interval": 1500
+    },
+    {
+      "image": "/images/web.png",
+      "title": "Black Adam",
+      "text":"Stok Takip Web Sitesi",
+      "href":"/stokTakip/login",
+      "interval": 500
+    },
+    {
+      "image": "/images/zikirmatik.png",
+      "title": "Black Panther: Wakanda Forever",
+      "text":"Akıllı Zikirmatik",
+      "href":"https://play.google.com/store/apps/details?id=com.pengona.akillizikirmatik",
+      "interval": 2500
+    }
+  ]
